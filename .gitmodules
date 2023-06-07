@@ -1,0 +1,3 @@
+[submodule "azadi"]
+	path = azadi
+	url = git@github.com:merledu/azadi.git
